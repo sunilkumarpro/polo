@@ -1,0 +1,264 @@
+.outer-wrapper {
+    margin: 0 auto;
+
+}
+
+.header {
+    overflow: hidden;
+}
+
+.logo img {
+    padding: 35px 0px 26px 0px;
+}
+
+.logo a {
+    display: inline-block;
+}
+
+.top-nav {
+    float: right;
+}
+
+.top-nav li {
+    float: left;
+    border-left: 1px dotted #d6d6d6;
+    padding: 0 10px;
+    margin-top: 45px;
+}
+
+.top-nav li a {
+    text-decoration: none;
+    color: #666666;
+    font: bold 14px/1 Georgia;
+}
+
+.top-nav a:hover {
+    color: #9c9c9c;
+    text-decoration: underline;
+}
+
+.top-nav li p {
+    color: #b7b7b7;
+    font: 11px Tahoma;
+}
+
+.slider {
+    background-color: #222222;
+    margin-bottom: 50px;
+}
+
+.banner {
+    top: 30px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.featured-boxes img {
+    width: 100%;
+}
+
+.featured-boxes h1 {
+    font: 24px/1 Georgia;
+    font-weight: bold;
+    padding-bottom: 20px;
+    text-align: center;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.featured-boxes h2 {
+    font: 21px/1 Georgia;
+    padding-top: 40px;
+    color: #11719e;
+}
+
+.featured-boxes p {
+    font: 13px Myriad Pro;
+    color: #6a6a6a;
+    padding-bottom: 20px;
+}
+
+.pg {
+    font: 13px Myriad Pro;
+    color: #6a6a6a;
+    padding-top: 20px;
+}
+
+.boxes-btn {
+    width: 163px;
+    border: none;
+    height: 32px;
+    border-radius: 10px;
+}
+
+.boxes-btn a {
+    float: left;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: left;
+    color: #016999;
+}
+
+.btn-icon {
+    background: url(../images/btn-icon.png) no-repeat;
+    width: 17px;
+    height: 7px;
+    float: right;
+    margin-top: 3px;
+}
+
+.social {
+    padding-top: 45px;
+    overflow: hidden;
+}
+
+.social h3 {
+    font: 18px Georgia, Arial, sans-serif;
+    color: #444444;
+    border-bottom: 1px dashed #d3d3d3;
+    margin-bottom: 15px;
+    padding-bottom: 10px
+}
+
+.social p {
+    font-size: 12px;
+    color: #444444;
+    line-height: 14px;
+    padding-bottom: 20px;
+}
+
+.social ul li {
+    display: inline-block;
+    margin-bottom: 14px;
+}
+
+.social-rss {
+    background: url(../images/social-rss.png) no-repeat;
+    width: 56px;
+    height: 56px;
+}
+
+.social-facebook {
+    background: url(../images/social-facebook.png) no-repeat;
+    width: 56px;
+    height: 56px;
+}
+
+.social-linkedin {
+    background: url(../images/social-linkedin.png) no-repeat;
+    width: 56px;
+    height: 56px;
+}
+
+.social-youtube {
+    background: url(../images/social-youtube.png) no-repeat;
+    width: 56px;
+    height: 56px;
+}
+
+
+
+.social-twitter {
+    background: url(../images/social-twitter.png) no-repeat;
+    width: 56px;
+    height: 56px;
+}
+
+
+
+.name,
+.email {
+    height: 32px;
+    border-radius: 5px;
+    font-size: 11px;
+    width: 100%;
+    padding-left: 15px;
+}
+
+.message {
+    width: 100%;
+    height: 134px;
+    margin-bottom: 35px;
+    border-radius: 5px;
+    font-size: 11px;
+    padding-left: 15px;
+}
+
+.news-post {
+    clear: left;
+    overflow: hidden;
+    padding-bottom: 15px;
+    margin-bottom: 11px;
+    border-bottom: 1px dashed #d3d3d3;
+}
+
+.news-post img {
+    padding: 5px;
+    border: 1px solid #cfcfcf;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.group-btn {
+    width: 163px;
+    height: 32px;
+    border: none;
+    background-color: #4170a0;
+    border-radius: 10px;
+}
+
+.group-btn a {
+    float: left;
+    font-size: 12px;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+}
+
+.button-icon {
+    background: url(../images/button-icon.png) no-repeat;
+    width: 17px;
+    height: 7px;
+    float: right;
+    border: none;
+    margin-top: 3px;
+}
+
+.footer {
+    background: #333;
+    border-top: 10px solid #4c4c4c;
+    color: #8e8e8e;
+    font-size: 11px;
+    margin: 30px 0 0;
+    padding: 20px 0 30px;
+}
+
+.footer p {
+    padding: 10px 0px;
+}
+
+.footer-section nav ul {
+    margin-left: 0;
+}
+
+.footer-section nav ul li {
+    display: inline;
+    margin: 0 3px 0 0;
+    padding: 0 5px 0 0;
+    border-right: 1px solid #838383;
+}
+
+.footer-section nav ul li:last-child {
+    border: none;
+}
+
+.footer-section nav ul li a {
+    color: #8e8e8e;
+    text-decoration: none;
+}
+
+.footer-section nav ul li a:hover {
+    color: #fff;
+    text-decoration: none;
+}
